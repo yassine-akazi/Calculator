@@ -38,7 +38,7 @@ button("9", 2, 3)
 button("+", 3, 1)
 button("/", 3, 2)
 button("-", 3, 3)
-button("x", 3, 4)
+button("*", 3, 4)
 
 button(".", 1, 4)
 button("=", 2, 4)
