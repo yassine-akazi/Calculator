@@ -7,4 +7,7 @@ items used in this project :
                   - operator
                   * operator
                   / operator
+    - fonctions : 
+                  * 1st fonc : simple opeation fonction
+                  * 2nd fonc : creating frame to input text
    
