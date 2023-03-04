@@ -15,7 +15,7 @@
 ### To run this calculator application, follow these steps:
 1 - Clone this repository to your local machine 
 ```
-git clone
+git clone https://github.com/yassine-akazi/Calculator.git
 ```
 2 - Install the required dependencies.
 ```
